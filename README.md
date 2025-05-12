@@ -5,7 +5,7 @@
 
 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscos350&show_icons=true&theme=radical)
+
 
 ### Tecnologias!
 <div style="display: inline_block"><br/>
